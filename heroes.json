@@ -1,0 +1,48 @@
+{
+  "heroes": [
+    {
+      "id": "cf345dae-7e3d-47f1-a431-0a4c48c408fc",
+      "name": "Water",
+      "description": "Power of water man",
+      "element": "water"
+    },
+    {
+      "id": "e9b40517-a476-4ae8-b199-8b5116d59b9c",
+      "name": "second fire",
+      "description": "some fire power",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
